@@ -14,7 +14,6 @@ Features:
 Technologies Used:
 
  Tool           : Purpose                       
-
  Python         : Programming language          
  Tkinter        : GUI (Graphical User Interface)
  Gemini API     : AI conversation generation    
