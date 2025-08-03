@@ -12,8 +12,7 @@ Features:
 - Fast response using Gemini's lightweight model
 
 Technologies Used:
-
- Tool           : Purpose                       
+                    
  Python         : Programming language          
  Tkinter        : GUI (Graphical User Interface)
  Gemini API     : AI conversation generation    
